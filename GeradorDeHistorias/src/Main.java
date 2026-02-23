@@ -10,15 +10,15 @@ import java.util.Scanner;
         String pronome1;
         String verbo1;
 
-        System.out.println("Adicione um adjetivo");
+        System.out.print("Adicione um adjetivo: ");
         adjetivo1 = ler.nextLine();
-        System.out.println("Adicione um pronome");
+        System.out.print("Adicione um pronome: ");
         pronome1 = ler.nextLine();
-        System.out.println("Adicione um adjetivo");
+        System.out.print("Adicione um adjetivo: ");
         adjetivo2 = ler.nextLine();
-        System.out.println("Adicione um verbo no presente");
+        System.out.print("Adicione um verbo no presente: ");
         verbo1 = ler.nextLine();
-        System.out.println("Adicione um adjetivo");
+        System.out.print("Adicione um adjetivo: ");
         adjetivo3 = ler.nextLine();
 
         System.out.println("Hoje eu fui em um zoológico " + adjetivo1 + ".");
