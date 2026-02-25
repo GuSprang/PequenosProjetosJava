@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CalculadoraJurosCompostos/CalculadoraJurosCompostos.iml" filepath="$PROJECT_DIR$/CalculadoraJurosCompostos/CalculadoraJurosCompostos.iml" />
       <module fileurl="file://$PROJECT_DIR$/CarrinhoDeMercado/CarrinhoDeMercado.iml" filepath="$PROJECT_DIR$/CarrinhoDeMercado/CarrinhoDeMercado.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConversorDePeso/ConversorDePeso.iml" filepath="$PROJECT_DIR$/ConversorDePeso/ConversorDePeso.iml" />
       <module fileurl="file://$PROJECT_DIR$/GeradorDeHistorias/GeradorDeHistorias.iml" filepath="$PROJECT_DIR$/GeradorDeHistorias/GeradorDeHistorias.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/PequenosProjetosJava.iml" filepath="$PROJECT_DIR$/.idea/PequenosProjetosJava.iml" />
     </modules>
